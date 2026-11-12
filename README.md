@@ -49,8 +49,8 @@ api_yatube/
 Клонировать репозиторий и перейти в него:
 
 ```bash
-git clone https://github.com/<ваш-логин>/api_yatube.git
-cd api_yatube
+git clone https://github.com/Danieltukg/forapipractice2.git
+cd forapipractice2
 ```
 
 Создать и активировать виртуальное окружение:
